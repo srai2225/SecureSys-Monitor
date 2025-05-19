@@ -157,3 +157,17 @@ From the frontend directory:
   npm start
 
 ```
+## Troubleshooting
+
+- Ensure Python and Node.js versions are compatible.
+
+- On Windows, PowerShell must be enabled and accessible.
+
+- If JSON file is not updating, check file permissions.
+
+- For cross-platform daemon scheduling, consult OS-specific tools.
+## Contact
+
+- For questions or contributions, contact Sumit Rai at [rasisumit2225@gmail.com].
+
+
