@@ -168,6 +168,6 @@ From the frontend directory:
 - For cross-platform daemon scheduling, consult OS-specific tools.
 ## Contact
 
-- For questions or contributions, contact Sumit Rai at [rasisumit2225@gmail.com].
+- For questions or contributions, contact Sumit Rai at raisumit2225@gmail.com .
 
 
