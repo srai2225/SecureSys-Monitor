@@ -20,4 +20,64 @@
 ---
 
 ## Repository Structure
+/
+├── frontend/ # React admin dashboard
+│ ├── public/
+│ │ └── system-status.json # System utility writes here
+│ ├── src/
+│ │ ├── App.js
+│ │ └── App.css
+│ └── package.json
+│
+├── system-monitor/ # System utility scripts
+│ ├── system_status_monitor.py
+│ ├── windows_checks.py
+│ ├── mac_checks.py
+│ └── linux_checks.py
+│
+└── README.md
+
+
+---
+
+## Prerequisites
+
+- Python 3.8+ installed on your machines
+- Node.js & npm installed for frontend development
+- Windows PowerShell available for Windows checks
+- Linux/macOS: standard terminal/shell
+
+---
+
+## Setup & Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/syspulse-dashboard.git
+cd syspulse-dashboard
+
+
+
+---
+
+## Prerequisites
+
+- Python 3.8+ installed on your machines
+- Node.js & npm installed for frontend development
+- Windows PowerShell available for Windows checks
+- Linux/macOS: standard terminal/shell
+
+---
+
+## Setup & Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/syspulse-dashboard.git
+cd syspulse-dashboard
+
+2. Setup System Utility
+Navigate to the system-monitor folder:cd system-monitor
 
